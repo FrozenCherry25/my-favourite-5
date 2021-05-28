@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    background: linear-gradient(#F84A4A 0%, #00F8FF 100%);
+}
+
+h1 {
+    font-size: 50px;
+}
